@@ -1,1 +1,1 @@
-echo Jenkins CI working
+echo Auto CI working
